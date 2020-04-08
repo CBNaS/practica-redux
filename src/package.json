@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5"
+  },
+  "keywords": [],
+  "name": "redux",
+  "description": ""
+}
